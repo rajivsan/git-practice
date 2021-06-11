@@ -25,7 +25,7 @@ int main()
 
 bool check_palindrome(std::string &ip_string)
 {
-    std::bitset<26> c_record;   
+    std::bitset<255> c_record;   
     int whitespace_count = 0; 
     
     str_tolower(ip_string);
