@@ -1,0 +1,7 @@
+# ignore everything 
+
+String\ Palindrome/*
+!String\ Palindrome/main.cpp
+
+
+
